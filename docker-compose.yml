@@ -22,3 +22,5 @@ services:
 
 volumes:
   db_data:
+
+  echo "this is my django application"
